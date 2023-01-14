@@ -153,10 +153,12 @@ $title: 'Mont-Heavy';
       color: #fff;
       padding: 40px;
       ul {
+        padding-left: 0;
         margin-top: 40px;
         li {
           color: #fff;
           margin: 10px;
+          margin-left: 0;
           font-size: 16px;
           list-style: none;
           &::before {
